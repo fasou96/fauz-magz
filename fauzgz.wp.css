@@ -1,7 +1,9 @@
- /*
-  * responsive.css
-  * @yuukithemes
-  */
+/*
+ * RemIcy Wordpress Theme v.2.1
+ * 03/05/2018
+ * @yuukithemes
+ */
+/** Media Responsive **/
 @media screen and (max-width:800px){
 #page .featured-wrap>article,#page .post-outer{width:33.33%}
 .container{width:95%}
